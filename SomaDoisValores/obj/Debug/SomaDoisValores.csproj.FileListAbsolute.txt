@@ -1,0 +1,10 @@
+C:\Users\logon\source\repos\SomaDoisValores\SomaDoisValores\bin\Debug\SomaDoisValores.exe.config
+C:\Users\logon\source\repos\SomaDoisValores\SomaDoisValores\bin\Debug\SomaDoisValores.exe
+C:\Users\logon\source\repos\SomaDoisValores\SomaDoisValores\bin\Debug\SomaDoisValores.pdb
+C:\Users\logon\source\repos\SomaDoisValores\SomaDoisValores\obj\Debug\SomaDoisValores.csprojAssemblyReference.cache
+C:\Users\logon\source\repos\SomaDoisValores\SomaDoisValores\obj\Debug\SomaDoisValores.Form1.resources
+C:\Users\logon\source\repos\SomaDoisValores\SomaDoisValores\obj\Debug\SomaDoisValores.Properties.Resources.resources
+C:\Users\logon\source\repos\SomaDoisValores\SomaDoisValores\obj\Debug\SomaDoisValores.csproj.GenerateResource.cache
+C:\Users\logon\source\repos\SomaDoisValores\SomaDoisValores\obj\Debug\SomaDoisValores.csproj.CoreCompileInputs.cache
+C:\Users\logon\source\repos\SomaDoisValores\SomaDoisValores\obj\Debug\SomaDoisValores.exe
+C:\Users\logon\source\repos\SomaDoisValores\SomaDoisValores\obj\Debug\SomaDoisValores.pdb
