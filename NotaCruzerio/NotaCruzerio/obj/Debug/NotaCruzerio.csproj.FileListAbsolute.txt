@@ -1,0 +1,10 @@
+C:\Users\logon\source\repos\NotaCruzerio\NotaCruzerio\bin\Debug\NotaCruzerio.exe.config
+C:\Users\logon\source\repos\NotaCruzerio\NotaCruzerio\bin\Debug\NotaCruzerio.exe
+C:\Users\logon\source\repos\NotaCruzerio\NotaCruzerio\bin\Debug\NotaCruzerio.pdb
+C:\Users\logon\source\repos\NotaCruzerio\NotaCruzerio\obj\Debug\NotaCruzerio.csprojAssemblyReference.cache
+C:\Users\logon\source\repos\NotaCruzerio\NotaCruzerio\obj\Debug\NotaCruzerio.Form1.resources
+C:\Users\logon\source\repos\NotaCruzerio\NotaCruzerio\obj\Debug\NotaCruzerio.Properties.Resources.resources
+C:\Users\logon\source\repos\NotaCruzerio\NotaCruzerio\obj\Debug\NotaCruzerio.csproj.GenerateResource.cache
+C:\Users\logon\source\repos\NotaCruzerio\NotaCruzerio\obj\Debug\NotaCruzerio.csproj.CoreCompileInputs.cache
+C:\Users\logon\source\repos\NotaCruzerio\NotaCruzerio\obj\Debug\NotaCruzerio.exe
+C:\Users\logon\source\repos\NotaCruzerio\NotaCruzerio\obj\Debug\NotaCruzerio.pdb
